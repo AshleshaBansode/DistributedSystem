@@ -1,0 +1,4 @@
+127.0.0.1 - - [13/Dec/2018:20:00:30 -0500] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [13/Dec/2018:20:02:38 -0500] "GET /Server2/ HTTP/1.1" 200 3736
+127.0.0.1 - - [13/Dec/2018:20:02:39 -0500] "POST /Server2/services/subtract.subtractHttpSoap12Endpoint/ HTTP/1.1" 200 454
+127.0.0.1 - - [13/Dec/2018:20:04:39 -0500] "GET /Server2/ HTTP/1.1" 200 3736

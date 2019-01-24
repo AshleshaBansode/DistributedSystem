@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.jst.ws.client.type.java">
+		<item value="http://localhost:8064/LoadBalancer/services/LoadBalance?wsdl"/>
+		<item value="http://localhost:8061/LoadBalanceServiceDirectory/services/LoadBalance?wsdl"/>
+		<item value="http://130.85.233.250:8061/LoadBalanceServiceDirectory/services/LoadBalance?wsdl"/>
+		<item value="http://130.85.233.250:8083/Server4/services/Add?wsdl"/>
+		<item value="http://localhost:8083/Server4/services/Divide?wsdl"/>
+	</list>
+</section>

@@ -1,0 +1,3 @@
+127.0.0.1 - - [13/Dec/2018:19:59:17 -0500] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [13/Dec/2018:20:02:36 -0500] "GET /LoadBalanceServiceDirectory/ HTTP/1.1" 200 3756
+127.0.0.1 - - [13/Dec/2018:20:02:39 -0500] "POST /LoadBalanceServiceDirectory/services/LoadBalance.LoadBalanceHttpEndpoint/loadBalancer HTTP/1.1" 200 116

@@ -1,0 +1,7 @@
+127.0.0.1 - - [14/Dec/2018:11:34:25 -0500] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [14/Dec/2018:11:37:18 -0500] "GET /Server1/ HTTP/1.1" 200 3736
+127.0.0.1 - - [14/Dec/2018:11:37:19 -0500] "POST /Server1/services/Add.AddHttpEndpoint/add HTTP/1.1" 200 94
+127.0.0.1 - - [14/Dec/2018:11:59:49 -0500] "GET /Server1/ HTTP/1.1" 200 3736
+127.0.0.1 - - [14/Dec/2018:11:59:50 -0500] "POST /Server1/services/Add.AddHttpEndpoint/add HTTP/1.1" 200 94
+127.0.0.1 - - [14/Dec/2018:12:20:52 -0500] "GET /Server1/ HTTP/1.1" 200 3736
+127.0.0.1 - - [14/Dec/2018:12:20:54 -0500] "POST /Server1/services/Add.AddHttpEndpoint/add HTTP/1.1" 200 95

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="loadbalance.LoadBalanceStub.LoadBalancer"/>
+<fullyQualifiedTypeName name="service2.AddCallbackHandler"/>
+<fullyQualifiedTypeName name="service2.MultiplyStub.Multiply"/>
+<fullyQualifiedTypeName name="service2.MultiplyStub"/>
+<fullyQualifiedTypeName name="service2.MultiplyStub.MultiplyResponse"/>
+<fullyQualifiedTypeName name="service2.DivideStub"/>
+<fullyQualifiedTypeName name="service2.DivideStub.Divide"/>
+<fullyQualifiedTypeName name="service2.DivideStub.DivideResponse"/>
+<fullyQualifiedTypeName name="loadbalance.LoadBalanceStub"/>
+<fullyQualifiedTypeName name="loadbalancesecond.LoadBalanceStub"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="org.apache.log4j.varia.NullAppender"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="loadbalance.LoadBalanceStub.Loadbal1"/>
+<fullyQualifiedTypeName name="loadbalance.LoadBalanceStub.Loadbal1Response"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="loadbalancesecond.LoadBalanceStub.Loadbal1"/>
+<fullyQualifiedTypeName name="loadbalancesecond.LoadBalanceStub.Loadbal1Response"/>
+</qualifiedTypeNameHistroy>

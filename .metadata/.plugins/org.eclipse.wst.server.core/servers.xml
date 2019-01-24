@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost 8080-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost 8080" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="Server1::org.eclipse.jst.jee.server:Server1::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost 8081-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost 8081" name="Tomcat v8.5 Server at localhost 8081" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="2">
+    <list key="modules" value0="Server2::org.eclipse.jst.jee.server:Server2::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost 8061-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (2)" name="Tomcat v8.5 Server at localhost 8061" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="1000" stop-timeout="15" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="LoadBalanceServiceDirectory::org.eclipse.jst.jee.server:LoadBalanceServiceDirectory::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost 8083-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (4)" name="Tomcat v8.5 Server at localhost 8083" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="8">
+    <list key="modules" value0="Server4::org.eclipse.jst.jee.server:Server4::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost 8084-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (3)" name="Tomcat v8.5 Server at localhost 8084" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="6">
+    <list key="modules" value0="Server3::org.eclipse.jst.jee.server:Server3::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost 8064-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost (5)" name="Tomcat v8.5 Server at localhost 8064" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="false" timestamp="6">
+    <list key="modules" value0="LoadBalancer::org.eclipse.jst.jee.server:LoadBalancer::jst.web::2.5"/>
+  </server>
+</servers>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="0/org.eclipse.jst.ws.wsImpl.java">
+		<item value="LoadBalanceSecond.LoadBalance"/>
+		<item value="LoadBalance.LoadBalance"/>
+		<item value="service3.Subtract"/>
+		<item value="service3.Multiply"/>
+		<item value="service3.Divide"/>
+	</list>
+</section>
